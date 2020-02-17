@@ -1,0 +1,21 @@
+{
+  "name": "weather-app-with-darksky-api",
+  "version": "1.0.0",
+  "description": "this is a weather app created using the darksky api ",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "weather",
+    "api"
+  ],
+  "author": "amukune ambuyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-static": "^0.7.11",
+    "nodemon": "^2.0.2"
+  }
+}
